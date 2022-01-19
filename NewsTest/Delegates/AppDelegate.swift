@@ -11,9 +11,16 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        
+//        let viewController = ViewController()
+//        let navController = UINavigationController(rootViewController: viewController)
+//        navController.navigationItem.title = "News Test"
+//
+//        window = UIWindow()
+//        window?.makeKeyAndVisible()
+//        window?.rootViewController = navController
+        
         return true
     }
 
